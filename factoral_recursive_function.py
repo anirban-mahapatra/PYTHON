@@ -7,4 +7,4 @@ def fact(num):
         return num*fact(num-1)
 
 num=int(input("Enter the number:-"))
-print(f"Factoral of {num} is {fact(num)}")
+print(f"Factorial of {num} is {fact(num)}")
