@@ -4,7 +4,7 @@ Search Snake water gun game in google if you need help on rules and how to play 
 
 import random
 
-print("\nWellcome to SNAKE WATER GAN game\n")
+print("\nWelcome to SNAKE WATER GAN game\n")
 c=0;y=0;i=0
 
 while(i!=10):
